@@ -11,14 +11,14 @@
 - Este sistema oferece uma maneira conveniente e eficaz de monitorar e gerenciar as finanças pessoais, ajudando os usuários a manter o controle de seus gastos e saldos de forma simples e intuitiva.
 
 <p align="center">
-  <img src="../images/1.png" width="600" />
-  <img src="../images/2.png" width="600" />
-  <img src="../images/3.png" width="600" />
-  <img src="../images/4.png" width="600" />
-  <img src="../images/5.png" width="600" />
-  <img src="../images/6.png" width="600" />
-  <img src="../images/7.png" width="600" />
-  <img src="../images/8.png" width="600" />
-  <img src="../images/9.png" width="600" />
-  <img src="../images/10.png" width="600" />
+  <img src="./images/1.png" width="600" />
+  <img src="./images/2.png" width="600" />
+  <img src="./images/3.png" width="600" />
+  <img src="./images/4.png" width="600" />
+  <img src="./images/5.png" width="600" />
+  <img src="./images/6.png" width="600" />
+  <img src="./images/7.png" width="600" />
+  <img src="./images/8.png" width="600" />
+  <img src="./images/9.png" width="600" />
+  <img src="./images/10.png" width="600" />
 </p>
